@@ -1,4 +1,4 @@
-# TP 26 - Microservices Observables et Résilients
+# Microservices Observables et Résilients
 
 ## Vue d'ensemble
 
